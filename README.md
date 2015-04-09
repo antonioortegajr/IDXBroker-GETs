@@ -13,3 +13,5 @@ All request headers Must be lower case (see ruby example)
 No version is specified.
 
 No prefered output (json or xml) is specified.
+
+Offcial API docs with PHP examples: http://middleware.idxbroker.com/docs/api/1.0.4/
