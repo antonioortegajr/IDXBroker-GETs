@@ -8,7 +8,9 @@ All calls will be a simple call for leads. Endpoint used: https://api.idxbroker.
 
 Since the IDX Broker docs are all PHP I decided to create an example of a leads call in various other languages.
 
-All request headers Must be lower case (see ruby example)
+All request headers MUST be lower case (see ruby example)
+
+Some requests may hvae package dependencies.
 
 No version is specified.
 
