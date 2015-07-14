@@ -10,7 +10,7 @@ Since the IDX Broker docs are all PHP I decided to create an example of a leads 
 
 All request headers MUST be lower case (see ruby example)
 
-Some requests may hvae package dependencies.
+Some requests may have package dependencies.
 
 No version is specified.
 
