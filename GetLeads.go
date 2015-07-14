@@ -11,7 +11,7 @@ func main() {
  defer easy.Cleanup()
 
  easy.Setopt(curlCmd.OPT_URL, "https://api.idxbroker.com/leads/lead")
- easy.Setopt(curlCmd.OPT_HTTPHEADER, []string{"Content-Type: application/x-www-form-urlencoded", "accesskey: YOURAPIKEYHERE", "outputt$
+ easy.Setopt(curlCmd.OPT_HTTPHEADER, []string{"Content-Type: application/x-www-form-urlencoded", "accesskey: YOURAPIKEYHERE")
  easy.Setopt(curlCmd.OPT_CUSTOMREQUEST, "GET")
   fooTest := func (buf []byte, userdata interface{}) bool {
       println("DEBUG: size=>", len(buf))
