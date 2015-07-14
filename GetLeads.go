@@ -1,5 +1,7 @@
 package main
 
+//based on http://golang-basic.blogspot.com/2014/06/curl-in-golang-go-curl.html
+
 import (
     "fmt"
      curlCmd "github.com/golang-basic/go-curl"
