@@ -18,3 +18,5 @@ No version is specified.
 No prefered output (json or xml) is specified.
 
 Initial Offcial API docs with PHP examples: http://middleware.idxbroker.com/docs/api/1.0.4/
+
+You can also test at this un offcial API tester: http://idx-api-tester.herokuapp.com/
