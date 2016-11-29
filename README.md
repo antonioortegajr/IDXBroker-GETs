@@ -19,4 +19,4 @@ No prefered output (json or xml) is specified.
 
 Initial Official API docs with PHP examples: http://developers.idxbroker.com/getting-started-with-the-idx-broker-api/
 
-You can also test at this un offcial API tester: http://idx-api-tester.herokuapp.com/
+You can also test at this un offcial API tester: http://unofficial-idx-broker-tools.herokuapp.com/api-quick-tester/
